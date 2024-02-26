@@ -262,7 +262,7 @@
     "product": [
         {
             "id": 1,
-            "img": "productimg",
+            "img": "http://localhost:3000/img/product/choynik.jpeg",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
