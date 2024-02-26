@@ -3,7 +3,7 @@
         {
             "id": 1,
             "categoryName": "Смартфоны и гаджеты",
-            "img": "",
+            "url": "",
             "categarysType": [
                 {
                     "id": 1,
@@ -170,77 +170,77 @@
         {
             "id": 2,
             "categoryName": "Компьютерная техника",
-            "img": ""
+            "url": ""
         },
         {
             "id": 3,
             "categoryName": "Техника для дома",
-            "img": ""
+            "url": ""
         },
         {
             "id": 4,
             "categoryName": "Офисная техника",
-            "img": ""
+            "url": ""
         },
         {
             "id": 5,
             "categoryName": "Техника для кухни",
-            "img": ""
+            "url": ""
         },
         {
             "id": 7,
             "categoryName": "Посуда для дома",
-            "img": ""
+            "url": ""
         },
         {
             "id": 8,
             "categoryName": "Товары для авто",
-            "img": ""
+            "url": ""
         },
         {
             "id": 9,
             "categoryName": "Климатическая техника",
-            "img": ""
+            "url": ""
         },
         {
             "id": 10,
             "categoryName": "Телевизоры и телекарты",
-            "img": ""
+            "url": ""
         },
         {
             "id": 11,
             "categoryName": "Аудиотехника и Hi-Fi",
-            "img": ""
+            "url": ""
         },
         {
             "id": 13,
             "categoryName": "Красота и здоровье",
-            "img": ""
+            "url": ""
         },
         {
             "id": 14,
             "categoryName": "Товары для детей",
-            "img": ""
+            "url": ""
         },
         {
             "id": 15,
             "categoryName": "Спорт и увлечение",
-            "img": ""
+            "url": ""
         },
         {
             "id": 16,
             "categoryName": "Игровые приставки",
-            "img": ""
+            "url": ""
         },
         {
             "id": 17,
             "categoryName": "Товары для дома",
-            "img": ""
+            "url": ""
         },
         {
             "id": 18,
             "categoryName": "Акции и скидки",
-            "img": ""
+            "url": ""
         }
     ],
     "company": [
@@ -262,7 +262,7 @@
     "product": [
         {
             "id": 1,
-            "img": "/img/product/choynik.jpeg",
+            "url": "http://localhost:3000/img/product/choynik.jpeg",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -276,7 +276,7 @@
         },
         {
             "id": 2,
-            "img": "productimg",
+            "url": "choynik.jpeg",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -290,7 +290,7 @@
         },
         {
             "id": 3,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -304,7 +304,7 @@
         },
         {
             "id": 4,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -318,7 +318,7 @@
         },
         {
             "id": 5,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -332,7 +332,7 @@
         },
         {
             "id": 6,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -346,7 +346,7 @@
         },
         {
             "id": 7,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -360,7 +360,7 @@
         },
         {
             "id": 8,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -374,7 +374,7 @@
         },
         {
             "id": 9,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -388,7 +388,7 @@
         },
         {
             "id": 10,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -402,7 +402,7 @@
         },
         {
             "id": 11,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -416,7 +416,7 @@
         },
         {
             "id": 12,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -430,7 +430,7 @@
         },
         {
             "id": 13,
-            "img": "productimg",
+            "url": "producturl",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
             "comments": 10,
@@ -443,7 +443,7 @@
         },
         {
             "id": 14,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -457,7 +457,7 @@
         },
         {
             "id": 15,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -471,7 +471,7 @@
         },
         {
             "id": 16,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -485,7 +485,7 @@
         },
         {
             "id": 17,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -499,7 +499,7 @@
         },
         {
             "id": 18,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -513,7 +513,7 @@
         },
         {
             "id": 19,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -527,7 +527,7 @@
         },
         {
             "id": 20,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
@@ -541,7 +541,7 @@
         },
         {
             "id": 21,
-            "img": "productimg",
+            "url": "producturl",
             "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
             "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
             "advice": "yoz narsa",
