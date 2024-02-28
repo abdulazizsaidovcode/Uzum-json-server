@@ -1,587 +1,595 @@
 {
-    "category": [
+  "category": [
+    {
+      "id": "1",
+      "categoryName": "Смартфоны и гаджеты",
+      "url": "",
+      "categarysType": [
         {
-            "id": 1,
-            "categoryName": "Смартфоны и гаджеты",
-            "url": "",
-            "categarysType": [
-                {
-                    "id": 1,
-                    "category": 1,
-                    "name": "ТЕЛЕФОНЫ",
-                    "types": [
-                        {
-                            "id": 1,
-                            "name": "Смартфоны"
-                        },
-                        {
-                            "id": 2,
-                            "name": "Смартфоны Samsung"
-                        },
-                        {
-                            "id": 3,
-                            "name": "iPhone"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Смартфоны HONOR"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Смартфоны Xiaomi"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Смартфоны Vivo"
-                        },
-                        {
-                            "id": 7,
-                            "name": "Смартфоны OPPO"
-                        },
-                        {
-                            "id": 8,
-                            "name": "Смартфоны Huawei"
-                        },
-                        {
-                            "id": 9,
-                            "name": "Смартфоны Nothing Phone"
-                        },
-                        {
-                            "id": 10,
-                            "name": "Смартфоны Infinix"
-                        },
-                        {
-                            "id": 11,
-                            "name": "Радиотелефоны"
-                        },
-                        {
-                            "id": 12,
-                            "name": "Кнопочные телефоны"
-                        }
-                    ]
-                },
-                {
-                    "id": 2,
-                    "category": 1,
-                    "name": "ГАДЖЕТЫ",
-                    "types": [
-                        {
-                            "id": 1,
-                            "name": "Смарт часы"
-                        },
-                        {
-                            "id": 2,
-                            "name": "Смартфоны Samsung"
-                        },
-                        {
-                            "id": 3,
-                            "name": "Умные напольные весы"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Фитнес браслеты"
-                        },
-                        {
-                            "id": 5,
-                            "name": "Очки виртуальной реальности"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Рации и радиостанции"
-                        }
-                    ]
-                },
-                {
-                    "id": 3,
-                    "category": 1,
-                    "name": "АКСЕССУАРЫ ДЛЯ ТЕЛЕФОНОВ",
-                    "types": [
-                        {
-                            "id": 1,
-                            "name": "Внешние аккумуляторы"
-                        },
-                        {
-                            "id": 2,
-                            "name": "Держатели для смартфонов"
-                        },
-                        {
-                            "id": 3,
-                            "name": "Зарядные устройства"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Игровые аксессуары"
-                        },
-                        {
-                            "id": 5,
-                            "name": "USB кабель для телефона"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Карты памяти"
-                        },
-                        {
-                            "id": 7,
-                            "name": "Моноподы для селфи"
-                        },
-                        {
-                            "id": 8,
-                            "name": "Наушники и гарнитуры"
-                        },
-                        {
-                            "id": 9,
-                            "name": "Чехлы для телефонов"
-                        },
-                        {
-                            "id": 10,
-                            "name": "Защитные стекла для телефона"
-                        },
-                        {
-                            "id": 11,
-                            "name": "AUX кабель"
-                        }
-                    ]
-                },
-                {
-                    "id": 4,
-                    "category": 1,
-                    "name": "ПЛАНШЕТЫ",
-                    "types": [
-                        {
-                            "id": 1,
-                            "name": "Планшеты Samsung"
-                        },
-                        {
-                            "id": 2,
-                            "name": "Планшеты Xiaomi"
-                        },
-                        {
-                            "id": 3,
-                            "name": "Планшеты Huawei"
-                        },
-                        {
-                            "id": 4,
-                            "name": "Планшеты Honor"
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "categoryName": "Компьютерная техника",
-            "url": ""
-        },
-        {
-            "id": 3,
-            "categoryName": "Техника для дома",
-            "url": ""
-        },
-        {
-            "id": 4,
-            "categoryName": "Офисная техника",
-            "url": ""
-        },
-        {
-            "id": 5,
-            "categoryName": "Техника для кухни",
-            "url": ""
-        },
-        {
-            "id": 7,
-            "categoryName": "Посуда для дома",
-            "url": ""
-        },
-        {
-            "id": 8,
-            "categoryName": "Товары для авто",
-            "url": ""
-        },
-        {
-            "id": 9,
-            "categoryName": "Климатическая техника",
-            "url": ""
-        },
-        {
-            "id": 10,
-            "categoryName": "Телевизоры и телекарты",
-            "url": ""
-        },
-        {
-            "id": 11,
-            "categoryName": "Аудиотехника и Hi-Fi",
-            "url": ""
-        },
-        {
-            "id": 13,
-            "categoryName": "Красота и здоровье",
-            "url": ""
-        },
-        {
-            "id": 14,
-            "categoryName": "Товары для детей",
-            "url": ""
-        },
-        {
-            "id": 15,
-            "categoryName": "Спорт и увлечение",
-            "url": ""
-        },
-        {
-            "id": 16,
-            "categoryName": "Игровые приставки",
-            "url": ""
-        },
-        {
-            "id": 17,
-            "categoryName": "Товары для дома",
-            "url": ""
-        },
-        {
-            "id": 18,
-            "categoryName": "Акции и скидки",
-            "url": ""
-        }
-    ],
-    "company": [
-        {
-            "id": 1,
-            "name": "samsung",
-            "type": [
-                {
-                    "id": 1,
-                    "name": "phone"
-                },
-                {
-                    "id": 1,
-                    "name": "tv"
-                }
-            ]
-        }
-    ],
-    "product": [
-        {
-            "id": 1,
-            "url": "http://localhost:3000/img/product/choynik.jpeg",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": true,
-            "sale": false,
-            "otherdescribtions": {
-                "delivery:": 1,     
-                "instock": 23,
-                "shortdescribtion": [
-                    "Значительная толщина стенок и дна исключает деформацию корпуса посуды;",
-                    "Усиленная антипригарная система;",
-                    "Продукты не пригорают и сохраняют свой вкус;",
-                    "Легкость мытья;",
-                    "Подходит для всех типов плит, кроме индукционных;"
-                ]
+          "id": 1,
+          "category": 1,
+          "name": "ТЕЛЕФОНЫ",
+          "types": [
+            {
+              "id": 1,
+              "name": "Смартфоны"
             },
-            "fulldescribtions": {
-                "imgfirst": "qozon.jpeg",
-                "imgsecond": "ruchka.jpeg",
-                "imgthird": null,
-                "imgfourth": null,
-                "textfirst": "Набор посуды Kukmara станет прекрасным подарком на любое торжество и оставит приятные воспоминания на долгие годы. В состав набора посуды линии Granit ultra входят кастрюля 4 л со стеклянной крышкой и сковорода 24 см со съемной ручкой - идеальный тандем для успеха на кулинарном поприще! Стеклянная крышка подходит и для кастрюли, и для сковороды. Посуда имеет отличные теплораспределительные и теплоаккумулирующие свойства, и блюда в ней получаются сочными и ароматными.",
-                "textsecond": "Функциональность посуды увеличивает стеклянная крышка из термостойкого стекла, благодаря которой можно наблюдать за приготовлением пищи и не снимать крышку каждый раз, теряя при этом изрядное количество тепла. Стеклянная крышка комплектуется приятной на ощупь бакелитовой ручкой, которая не нагревается при приготовлении пищи. Удобное хранение сковороды обеспечивает съемная бакелитовая ручка.",
-                "textthird": "Ультрапрочное многослойное антипригарное покрытие ultra granit позволяет использовать даже неострые металлические предметы. Такое покрытие, усиленное сверхтвердыми минералами близкими по твердости к алмазу, гарантирует долгий срок службы даже при ежедневном использовании, при этом абсолютно безопасно для здоровья, без PFOA. Покрытие не требует особенного ухода, легко моется как вручную, так и в посудомоечной машине (в режиме Eco без предварительного замачивания)."
+            {
+              "id": 2,
+              "name": "Смартфоны Samsung"
             },
-            "productcompound": {
-                "textfirst": "Категория Наборы",
-                "textsecond": "Линия Granit Ultra",
-                "textthird": "Антипригарное покрытие Есть",
-                "textfourth": "Диаметр изделия (см) 24",
-                "textfiveth": "Материал корпуса Литой алюминий",
-                "textsixeth": "Толщина бортов (см) 0,45",
-                "textseventh": "Крышка Кастрюли - жаропрочное стекло, с ручкой из нержавеющей стали"
+            {
+              "id": 3,
+              "name": "iPhone"
+            },
+            {
+              "id": 4,
+              "name": "Смартфоны HONOR"
+            },
+            {
+              "id": 5,
+              "name": "Смартфоны Xiaomi"
+            },
+            {
+              "id": 6,
+              "name": "Смартфоны Vivo"
+            },
+            {
+              "id": 7,
+              "name": "Смартфоны OPPO"
+            },
+            {
+              "id": 8,
+              "name": "Смартфоны Huawei"
+            },
+            {
+              "id": 9,
+              "name": "Смартфоны Nothing Phone"
+            },
+            {
+              "id": 10,
+              "name": "Смартфоны Infinix"
+            },
+            {
+              "id": 11,
+              "name": "Радиотелефоны"
+            },
+            {
+              "id": 12,
+              "name": "Кнопочные телефоны"
             }
-        },
-
-        {
-            "id": 2,
-            "url": "choynik.jpeg",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": false,
-            "sale": true
+          ]
         },
         {
-            "id": 3,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": false,
-            "sale": true
+          "id": 2,
+          "category": 1,
+          "name": "ГАДЖЕТЫ",
+          "types": [
+            {
+              "id": 1,
+              "name": "Смарт часы"
+            },
+            {
+              "id": 2,
+              "name": "Смартфоны Samsung"
+            },
+            {
+              "id": 3,
+              "name": "Умные напольные весы"
+            },
+            {
+              "id": 4,
+              "name": "Фитнес браслеты"
+            },
+            {
+              "id": 5,
+              "name": "Очки виртуальной реальности"
+            },
+            {
+              "id": 6,
+              "name": "Рации и радиостанции"
+            }
+          ]
         },
         {
-            "id": 4,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": true,
-            "sale": false
+          "id": 3,
+          "category": 1,
+          "name": "АКСЕССУАРЫ ДЛЯ ТЕЛЕФОНОВ",
+          "types": [
+            {
+              "id": 1,
+              "name": "Внешние аккумуляторы"
+            },
+            {
+              "id": 2,
+              "name": "Держатели для смартфонов"
+            },
+            {
+              "id": 3,
+              "name": "Зарядные устройства"
+            },
+            {
+              "id": 4,
+              "name": "Игровые аксессуары"
+            },
+            {
+              "id": 5,
+              "name": "USB кабель для телефона"
+            },
+            {
+              "id": 6,
+              "name": "Карты памяти"
+            },
+            {
+              "id": 7,
+              "name": "Моноподы для селфи"
+            },
+            {
+              "id": 8,
+              "name": "Наушники и гарнитуры"
+            },
+            {
+              "id": 9,
+              "name": "Чехлы для телефонов"
+            },
+            {
+              "id": 10,
+              "name": "Защитные стекла для телефона"
+            },
+            {
+              "id": 11,
+              "name": "AUX кабель"
+            }
+          ]
         },
         {
-            "id": 5,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": true,
-            "sale": true
-        },
-        {
-            "id": 6,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": false,
-            "sale": false
-        },
-        {
-            "id": 7,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": false,
-            "sale": false
-        },
-        {
-            "id": 8,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": true,
-            "sale": true
-        },
-        {
-            "id": 9,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": false,
-            "sale": false
-        },
-        {
-            "id": 10,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": true,
-            "sale": true
-        },
-        {
-            "id": 11,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": false,
-            "sale": false
-        },
-        {
-            "id": 12,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": true,
-            "sale": true
-        },
-        {
-            "id": 13,
-            "url": "producturl",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": false,
-            "sale": false
-        },
-        {
-            "id": 14,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": true,
-            "sale": true
-        },
-        {
-            "id": 15,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": false,
-            "sale": false
-        },
-        {
-            "id": 16,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": true,
-            "sale": true
-        },
-        {
-            "id": 17,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": false,
-            "sale": false
-        },
-        {
-            "id": 18,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": true,
-            "sale": false
-        },
-        {
-            "id": 19,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": true,
-            "sale": false
-        },
-        {
-            "id": 20,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": false,
-            "sale": true
-        },
-        {
-            "id": 21,
-            "url": "producturl",
-            "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
-            "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
-            "advice": "yoz narsa",
-            "comments": 10,
-            "monthpay": 100,
-            "rate": 5,
-            "price": 1000,
-            "oldprice": 1200,
-            "discount": true,
-            "sale": false
+          "id": 4,
+          "category": 1,
+          "name": "ПЛАНШЕТЫ",
+          "types": [
+            {
+              "id": 1,
+              "name": "Планшеты Samsung"
+            },
+            {
+              "id": 2,
+              "name": "Планшеты Xiaomi"
+            },
+            {
+              "id": 3,
+              "name": "Планшеты Huawei"
+            },
+            {
+              "id": 4,
+              "name": "Планшеты Honor"
+            }
+          ]
         }
-    ]
+      ]
+    },
+    {
+      "id": "2",
+      "categoryName": "Компьютерная техника",
+      "url": ""
+    },
+    {
+      "id": "3",
+      "categoryName": "Техника для дома",
+      "url": ""
+    },
+    {
+      "id": "4",
+      "categoryName": "Офисная техника",
+      "url": ""
+    },
+    {
+      "id": "5",
+      "categoryName": "Техника для кухни",
+      "url": ""
+    },
+    {
+      "id": "7",
+      "categoryName": "Посуда для дома",
+      "url": ""
+    },
+    {
+      "id": "8",
+      "categoryName": "Товары для авто",
+      "url": ""
+    },
+    {
+      "id": "9",
+      "categoryName": "Климатическая техника",
+      "url": ""
+    },
+    {
+      "id": "10",
+      "categoryName": "Телевизоры и телекарты",
+      "url": ""
+    },
+    {
+      "id": "11",
+      "categoryName": "Аудиотехника и Hi-Fi",
+      "url": ""
+    },
+    {
+      "id": "13",
+      "categoryName": "Красота и здоровье",
+      "url": ""
+    },
+    {
+      "id": "14",
+      "categoryName": "Товары для детей",
+      "url": ""
+    },
+    {
+      "id": "15",
+      "categoryName": "Спорт и увлечение",
+      "url": ""
+    },
+    {
+      "id": "16",
+      "categoryName": "Игровые приставки",
+      "url": ""
+    },
+    {
+      "id": "17",
+      "categoryName": "Товары для дома",
+      "url": ""
+    },
+    {
+      "id": "18",
+      "categoryName": "Акции и скидки",
+      "url": ""
+    }
+  ],
+  "company": [
+    {
+      "id": "1",
+      "name": "samsung",
+      "type": [
+        {
+          "id": 1,
+          "name": "phone"
+        },
+        {
+          "id": 1,
+          "name": "tv"
+        }
+      ]
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "url": "/images/choynik.jpeg",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": true,
+      "sale": false,
+      "otherdescribtions": {
+        "delivery:": 1,
+        "instock": 23,
+        "shortdescribtion": [
+          "Значительная толщина стенок и дна исключает деформацию корпуса посуды;",
+          "Усиленная антипригарная система;",
+          "Продукты не пригорают и сохраняют свой вкус;",
+          "Легкость мытья;",
+          "Подходит для всех типов плит, кроме индукционных;"
+        ]
+      },
+      "fulldescribtions": {
+        "imgfirst": "qozon.jpeg",
+        "imgsecond": "ruchka.jpeg",
+        "imgthird": null,
+        "imgfourth": null,
+        "textfirst": "Набор посуды Kukmara станет прекрасным подарком на любое торжество и оставит приятные воспоминания на долгие годы. В состав набора посуды линии Granit ultra входят кастрюля 4 л со стеклянной крышкой и сковорода 24 см со съемной ручкой - идеальный тандем для успеха на кулинарном поприще! Стеклянная крышка подходит и для кастрюли, и для сковороды. Посуда имеет отличные теплораспределительные и теплоаккумулирующие свойства, и блюда в ней получаются сочными и ароматными.",
+        "textsecond": "Функциональность посуды увеличивает стеклянная крышка из термостойкого стекла, благодаря которой можно наблюдать за приготовлением пищи и не снимать крышку каждый раз, теряя при этом изрядное количество тепла. Стеклянная крышка комплектуется приятной на ощупь бакелитовой ручкой, которая не нагревается при приготовлении пищи. Удобное хранение сковороды обеспечивает съемная бакелитовая ручка.",
+        "textthird": "Ультрапрочное многослойное антипригарное покрытие ultra granit позволяет использовать даже неострые металлические предметы. Такое покрытие, усиленное сверхтвердыми минералами близкими по твердости к алмазу, гарантирует долгий срок службы даже при ежедневном использовании, при этом абсолютно безопасно для здоровья, без PFOA. Покрытие не требует особенного ухода, легко моется как вручную, так и в посудомоечной машине (в режиме Eco без предварительного замачивания)."
+      },
+      "productcompound": {
+        "textfirst": "Категория Наборы",
+        "textsecond": "Линия Granit Ultra",
+        "textthird": "Антипригарное покрытие Есть",
+        "textfourth": "Диаметр изделия (см) 24",
+        "textfiveth": "Материал корпуса Литой алюминий",
+        "textsixeth": "Толщина бортов (см) 0,45",
+        "textseventh": "Крышка Кастрюли - жаропрочное стекло, с ручкой из нержавеющей стали"
+      },
+      "cart": false,
+      "wishes": true
+    },
+    {
+      "id": "2",
+      "url": "/images/parashok.jpeg",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": false,
+      "sale": true,
+      "cart": false,
+      "wishes": false
+    },
+    {
+      "id": "3",
+      "url": "/images/telifon.jpeg",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": false,
+      "sale": true,
+      "cart": false,
+      "wishes": false
+    },
+    {
+      "id": "4",
+      "url": "/images/yog.jpeg",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": true,
+      "sale": false,
+      "cart": false,
+      "wishes": false
+    },
+    {
+      "id": "5",
+      "url": "/images/zontik.jpeg",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": true,
+      "sale": true
+    },
+    {
+      "id": "6",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": false,
+      "sale": false
+    },
+    {
+      "id": "7",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": false,
+      "sale": false
+    },
+    {
+      "id": "8",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": true,
+      "sale": true,
+      "wishes": false
+    },
+    {
+      "id": "9",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": false,
+      "sale": false
+    },
+    {
+      "id": "10",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": true,
+      "sale": true
+    },
+    {
+      "id": "11",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": false,
+      "sale": false
+    },
+    {
+      "id": "12",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": true,
+      "sale": true
+    },
+    {
+      "id": "13",
+      "url": "producturl",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": false,
+      "sale": false
+    },
+    {
+      "id": "14",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": true,
+      "sale": true
+    },
+    {
+      "id": "15",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": false,
+      "sale": false
+    },
+    {
+      "id": "16",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": true,
+      "sale": true
+    },
+    {
+      "id": "17",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": false,
+      "sale": false
+    },
+    {
+      "id": "18",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": true,
+      "sale": false
+    },
+    {
+      "id": "19",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": true,
+      "sale": false
+    },
+    {
+      "id": "20",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": false,
+      "sale": true
+    },
+    {
+      "id": "21",
+      "url": "producturl",
+      "name": "Подсолнечное масло Oila tanlovi, рафинированное и дезодорированное,",
+      "describtion": "Lorem ipsum dolor sit amet, consectetur adipiscing ",
+      "advice": "yoz narsa",
+      "comments": 10,
+      "monthpay": 100,
+      "rate": 5,
+      "price": 1000,
+      "oldprice": 1200,
+      "discount": true,
+      "sale": false
+    }
+  ]
 }
