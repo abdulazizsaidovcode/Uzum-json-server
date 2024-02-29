@@ -319,7 +319,7 @@
       "discount": false,
       "sale": true,
       "cart": false,
-      "wishes": false
+      "wishes": true
     },
     {
       "id": "3",
@@ -365,7 +365,8 @@
       "price": 1000,
       "oldprice": 1200,
       "discount": true,
-      "sale": true
+      "sale": true,
+      "wishes": true
     },
     {
       "id": "6",
