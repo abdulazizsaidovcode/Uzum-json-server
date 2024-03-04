@@ -335,7 +335,7 @@
       "discount": false,
       "sale": true,
       "cart": false,
-      "wishes": false,
+      "wishes": true,
       "buy": false
     },
     {
